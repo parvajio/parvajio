@@ -17,19 +17,19 @@
 
 ## 🛠️ Tech Stack
 
-| Languages | Frontend | Backend | Database |
-|-----------|----------|---------|----------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css) | ![Node.js](https://img.shields.io/badge/-Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-%23303A3B?style=flat-square&logo=express) | ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) |
+| Languages                                                                                               | Frontend                                                                                                 | Backend                                                                                           | Database                                                                                               |
+|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript)     ![HTML](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css) | ![Node.js](https://img.shields.io/badge/-Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-%23303A3B?style=flat-square&logo=express) | ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
 ## 📂 Projects
 
-| Project | Description | GitHub | Demo |
-|---------|-------------|--------|------|
-| **Diagno** | Diagnostic center management system. | [Client](https://github.com/mdparvajmosharof/Diagno) <br> [Server](https://github.com/mdparvajmosharof/diagno-server) | [Demo](https://diagno-auth.web.app) |
-| **Touro** | Tour-related application focusing on featured tours. | [Client](https://github.com/mdparvajmosharof/touro) | [Demo](https://touro-f1537.web.app/) |
-| **Rento** | Platform for rental listings and services. | [Client](https://github.com/mdparvajmosharof/Rento) | [Demo](https://rento.web.app/) |
+| Project       | Description                                        | Client                                                     | Server                                                     | Demo                                                         |
+|---------------|----------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| 🚀 **Diagno** | Diagnostic center management system.               | [Client Repo](https://github.com/mdparvajmosharof/Diagno)  | [Server Repo](https://github.com/mdparvajmosharof/diagno-server) | [Live Demo](https://diagno-auth.web.app)                      |
+| 🌐 **Alterno**| Web application for alternative experiences.       | [Client Repo](https://github.com/mdparvajmosharof/alterno) | [Server Repo](https://github.com/mdparvajmosharof/alterno-server) | [Live Demo](https://alterno.web.app/)                         |
+| 🏠 **Rento**  | Platform for rental listings and services.         | [Client Repo](https://github.com/mdparvajmosharof/Rento)   | N/A                                                        | [Live Demo](https://rento.web.app/)                           |
 
 ---
 
