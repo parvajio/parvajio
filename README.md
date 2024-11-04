@@ -17,37 +17,19 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
-
-- **Frontend**  
-  ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css)
-
-- **Backend**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-%23303A3B?style=flat-square&logo=express)
-
-- **Database**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+| Languages | Frontend | Backend | Database |
+|-----------|----------|---------|----------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css) | ![Node.js](https://img.shields.io/badge/-Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-%23303A3B?style=flat-square&logo=express) | ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
 ## 📂 Projects
 
-- [**Diagno**](https://diagno-auth.web.app)  
-  A comprehensive diagnostic center management system.  
-  GitHub: [Client](https://github.com/mdparvajmosharof/Diagno) | [Server](https://github.com/mdparvajmosharof/diagno-server)
-
-- [**Touro**](https://touro-f1537.web.app/)  
-  Tour-related application focusing on featured tours and user experiences.  
-  GitHub: [Client](https://github.com/mdparvajmosharof/touro)
-
-- [**Rento**](https://rento.web.app/)  
-  A platform for rental listings and services.  
-  GitHub: [Client](https://github.com/mdparvajmosharof/Rento)
+| Project | Description | GitHub | Demo |
+|---------|-------------|--------|------|
+| **Diagno** | Diagnostic center management system. | [Client](https://github.com/mdparvajmosharof/Diagno) <br> [Server](https://github.com/mdparvajmosharof/diagno-server) | [Demo](https://diagno-auth.web.app) |
+| **Touro** | Tour-related application focusing on featured tours. | [Client](https://github.com/mdparvajmosharof/touro) | [Demo](https://touro-f1537.web.app/) |
+| **Rento** | Platform for rental listings and services. | [Client](https://github.com/mdparvajmosharof/Rento) | [Demo](https://rento.web.app/) |
 
 ---
 
