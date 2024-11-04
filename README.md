@@ -1,4 +1,4 @@
-# Md. Parvaj Mosharof - Portfolio
+# Md. Parvaj Mosharof
 
 <table>
   <tr>
@@ -8,7 +8,7 @@
       <p>Currently, I'm enhancing my skills in <strong>Next.js</strong> and exploring new backend technologies to broaden my expertise.</p>
     </td>
     <td>
-      <img src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Coding GIF" width="300" align="right"/>
+      <img src="https://github.com/mdparvajmosharof/mdparvajmosharof/blob/main/UI%20Developer.gif" alt="Coding GIF" width="300" align="right"/>
     </td>
   </tr>
 </table>
