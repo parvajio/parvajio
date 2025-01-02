@@ -41,6 +41,3 @@
 
 ---
 
-<div align="center" style="font-style: italic; color: #555;">
-  Made with ❤️ by Md. Parvaj Mosharof
-</div>
