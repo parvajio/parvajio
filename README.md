@@ -27,17 +27,17 @@
 
 | Project       | Description                                        | Client                                                     | Server                                                     | Demo                                                         |
 |---------------|----------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
-| 🚀 **Diagno** | Diagnostic center management system.               | [Client Repo](https://github.com/mdparvajmosharof/Diagno)  | [Server Repo](https://github.com/mdparvajmosharof/diagno-server) | [Live Demo](https://diagno-auth.web.app)                      |
-| 🌐 **Alterno**| Web application for alternative experiences.       | [Client Repo](https://github.com/mdparvajmosharof/alterno) | [Server Repo](https://github.com/mdparvajmosharof/alterno-server) | [Live Demo](https://alterno-auth.web.app/)                         |
-| 🏠 **Rento**  | Platform for rental listings and services.         | [Client Repo](https://github.com/mdparvajmosharof/Rento)   | N/A                                                        | [Live Demo](https://auth-rento.web.app/)                           |
+| 🚀 **Diagno** | Diagnostic center management system.               | [Client Repo](https://github.com/parvajio/Diagno)  | [Server Repo](https://github.com/parvajio/diagno-server) | [Live Demo](https://diagno-auth.web.app)                      |
+| 🌐 **Alterno**| Web application for alternative experiences.       | [Client Repo](https://github.com/parvajio/alterno) | [Server Repo](https://github.com/parvajio/alterno-server) | [Live Demo](https://alterno-auth.web.app/)                         |
+| 🏠 **Rento**  | Platform for rental listings and services.         | [Client Repo](https://github.com/parvajio/Rento)   | N/A                                                        | [Live Demo](https://auth-rento.web.app/)                           |
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-parvaj-mosharof)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23f6805e?style=flat-square&logo=netlify&logoColor=white)](https://mdparvajmosharof.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdparvajmosharof)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvajio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23f6805e?style=flat-square&logo=netlify&logoColor=white)](https://parvajio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parvajio)
 
 ---
 
