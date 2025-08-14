@@ -22,6 +22,9 @@
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript)     ![HTML](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css) | ![Node.js](https://img.shields.io/badge/-Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-%23303A3B?style=flat-square&logo=express) | ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
+## 🌐 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvajio&layout=compact&theme=radical)
 
 ## 📂 Projects
 
@@ -40,4 +43,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parvajio)
 
 ---
+
+
 
